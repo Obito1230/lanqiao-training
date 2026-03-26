@@ -26,4 +26,5 @@ int main (){
         sum+=z;
     }
     cout<<sum;
+    return 0;
 }
